@@ -38,6 +38,7 @@
 #### 3. Introdução à Design Patterns
 - [x] Aula 19 | Introdução aos Design Patterns
 - [x] Aula 21 | Padrão Singleton
+- [x] Aula 22 | Padrão Factory
 - [x] Aula 20 | Padrão State
 - [x] Aula 22 | Padrão Composite
 - [x] Aula 23 | Padrão Observer
